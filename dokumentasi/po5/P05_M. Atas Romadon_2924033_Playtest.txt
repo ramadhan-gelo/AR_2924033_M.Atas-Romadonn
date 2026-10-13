@@ -1,0 +1,6 @@
+Catatan Playtest Praktikum 05
+
+No | Yang dilakukan tester | Bagian membingungkan | Perbaikan yang diusulkan
+1  | Menggerakkan player dengan WASD | Awalnya bingung arah kamera | Tambahkan petunjuk teks di layar
+2  | Menabrak obstacle | Tidak ada efek suara saat menabrak | Tambahkan suara "Bum" saat tabrakan
+3  | Menyentuh target | Target hilang tiba-tiba tanpa efek | Tambahkan efek partikel atau suara "Ting"

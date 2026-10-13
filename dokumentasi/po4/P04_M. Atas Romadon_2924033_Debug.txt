@@ -1,0 +1,6 @@
+Catatan Debugging Praktikum 04
+
+Nama File: RotateObject.cs
+Nomor Baris: 5
+Pesan Error Singkat: CS1002: ; expected
+Perbaikan: Menambahkan kembali tanda titik koma (;) di akhir baris kode.
